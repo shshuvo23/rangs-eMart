@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Solid/chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.07378767,8.65122374 L0.193027397,3.77043836 C-0.0423675799,3.53504338 -0.0423675799,3.15340868 0.193027397,2.91803881 L0.762289954,2.34877626 C0.997283105,2.11378311 1.37813927,2.11333105 1.61368493,2.34777169 L5.5,6.215879 L9.38628995,2.34777169 C9.62183562,2.11333105 10.0026918,2.11378311 10.2376849,2.34877626 L10.8069475,2.91803881 C11.0423425,3.15343379 11.0423425,3.53506849 10.8069475,3.77043836 L5.92621233,8.65122374 C5.69081735,8.88659361 5.30918265,8.88659361 5.07378767,8.65122374 Z" id="path-1"></path>
+    </defs>
+    <g id="Comps-L" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-1_PLP-Quick-View-L" transform="translate(-789.000000, -402.000000)">
+            <g id="QUICK-VIEW-POPUP" transform="translate(58.000000, 72.000000)">
+                <g id="PRODUCT-INFO" transform="translate(119.000000, 42.000000)">
+                    <g id="ADD-ONS" transform="translate(397.500000, 225.000000)">
+                        <g id="Group-4" transform="translate(0.000000, 52.000000)">
+                            <g id="Solid/chevron-down" transform="translate(215.000000, 9.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Color/Black" mask="url(#mask-2)" fill="#000000" fill-rule="evenodd">
+                                    <rect id="Black" x="0" y="0" width="11" height="11"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
